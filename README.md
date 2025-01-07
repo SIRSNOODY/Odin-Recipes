@@ -20,5 +20,3 @@ I learnt quite abit, however less about HTML and more about Github and the proce
 
 I had accidentally pushed my main tree that included a parent repository. After some trial and error and deleting pretty much everything I then discovered the magic of GITHUB! 
 A simple clone again from GH, delete the parent folder I didnt want in my commit and a repush has fixed this.
-
-Quite simple really. 
